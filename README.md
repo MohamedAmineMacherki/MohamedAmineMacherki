@@ -114,15 +114,15 @@ I excel at designing and deploying end-to-end AI solutions (chatbots, real-time 
 <h2 align="left">📈 GitHub Stats</h2>
  
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedaminemacherki&show_icons=true&locale=en&layout=compact" alt="mohamedaminemacherki" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=StrongAmineMohamed&show_icons=true&locale=en&layout=compact" alt="StrongAmineMohamed" />
 </p>
  
 <p>
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedaminemacherki&show_icons=true&locale=en" alt="mohamedaminemacherki" />
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=StrongAmineMohamed&show_icons=true&locale=en" alt="StrongAmineMohamed" />
 </p>
  
 <p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedaminemacherki&" alt="mohamedaminemacherki" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=StrongAmineMohamed&" alt="StrongAmineMohamed" />
 </p>
  
 <br/>
