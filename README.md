@@ -30,7 +30,7 @@ I excel at designing and deploying end-to-end AI solutions (chatbots, real-time 
  
 - **Location**: Sfax, Tunisia  
 - **Email**: [mohamedamine.macherki@ieee.org](mailto:mohamedamine.macherki@ieee.org)  
-- **Phone**: +216 92 949 200  
+- **Phone**: +216 56 58 60 61 
 - **LinkedIn**: [Mohamed Amine MACHERKI]([https://www.linkedin.com/in/mohamedaminemacherki](https://www.linkedin.com/in/mohamed-amine-macherki-b62a65200/))  
 - **GitHub**: [Mohamed Amine MACHERKI]([https://github.com/mohamedaminemacherki](https://github.com/StrongAmineMohamed))
  
