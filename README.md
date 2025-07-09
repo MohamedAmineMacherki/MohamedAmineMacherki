@@ -19,12 +19,12 @@
 <img align="right" alt="Coding" width="330" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
  
 ## 🚀 Profile Summary
-I am an **AI Engineer** specializing in **Data Science**, **Generative AI**, and **Advanced Deep Learning**. My expertise covers:
+I am an **Software Engineer** specializing in **Data Science**, **React.Js**, and **Java**. My expertise covers:
  
 - **RAG (Retrieval-Augmented Generation)**
 - **LLMs (GPT, Azure OpenAI, LLaMA)**
-- **Prompt Engineering**
-- **Hugging Face** integrations
+- **Microservice**
+- **Microfrontend** 
  
 I excel at designing and deploying end-to-end AI solutions (chatbots, real-time data sync, continuous training with MLflow). I’m driven by a passion for cutting-edge AI research and a commitment to continuous learning.
  
